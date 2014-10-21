@@ -23,4 +23,6 @@ It is achieved in a few steps.
 
 ## Screenshots
 
-First screenshots will appear here soon.
+#### Main Application Window
+
+![Main Application Window](Screenshots/Main\ Application\ Window.png)
